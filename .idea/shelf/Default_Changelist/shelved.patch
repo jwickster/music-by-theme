@@ -1,0 +1,47 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"BranchesTreeState\">\n    <expand>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"LOCAL_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n      <path>\n        <item name=\"ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"REMOTE_ROOT\" type=\"e8cecc67:BranchNodeDescriptor\" />\n        <item name=\"GROUP_NODE:origin\" type=\"e8cecc67:BranchNodeDescriptor\" />\n      </path>\n    </expand>\n    <select />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"e81852a5-693c-431a-8229-eec0e0457317\" name=\"Default Changelist\" comment=\"test commit\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <favorite-branches>\n      <branch-storage>\n        <map>\n          <entry type=\"LOCAL\">\n            <value>\n              <list>\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"josh\" />\n              </list>\n            </value>\n          </entry>\n        </map>\n      </branch-storage>\n    </favorite-branches>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1jDF98Dgw6TIE84Hgrbq4c2cc4N\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.lookFeel\" />\n    <property name=\"vue.rearranger.settings.migration\" value=\"true\" />\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"e81852a5-693c-431a-8229-eec0e0457317\" name=\"Default Changelist\" comment=\"\" />\n      <created>1603330600606</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1603330600606</updated>\n      <workItem from=\"1603330601670\" duration=\"1265000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"test commit\">\n      <created>1603331166772</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1603331166772</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"2\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"test commit\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"test commit\" />\n  </component>\n  <component name=\"WindowStateProjectService\">\n    <state x=\"2592\" y=\"367\" key=\"Vcs.Push.Dialog.v2\" timestamp=\"1603331245596\">\n      <screen x=\"0\" y=\"23\" width=\"5120\" height=\"1363\" />\n    </state>\n    <state x=\"2592\" y=\"367\" key=\"Vcs.Push.Dialog.v2/0.23.5120.1363@0.23.5120.1363\" timestamp=\"1603331245596\" />\n    <state x=\"2861\" y=\"599\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2\" timestamp=\"1603331265778\">\n      <screen x=\"0\" y=\"23\" width=\"5120\" height=\"1363\" />\n    </state>\n    <state x=\"2861\" y=\"599\" key=\"com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.5120.1363@0.23.5120.1363\" timestamp=\"1603331265778\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision a07f67fd1d57ea3af280c1d28e5e7595b87f9bd2)
++++ .idea/workspace.xml	(date 1603332330858)
+@@ -62,7 +62,7 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1603330600606</updated>
+-      <workItem from="1603330601670" duration="1265000" />
++      <workItem from="1603330601670" duration="1651000" />
+     </task>
+     <task id="LOCAL-00001" summary="test commit">
+       <created>1603331166772</created>
+@@ -71,7 +71,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1603331166772</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="test commit">
++      <created>1603332111223</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1603332111223</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -93,10 +100,10 @@
+     <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+   </component>
+   <component name="WindowStateProjectService">
+-    <state x="2592" y="367" key="Vcs.Push.Dialog.v2" timestamp="1603331245596">
++    <state x="2592" y="367" key="Vcs.Push.Dialog.v2" timestamp="1603332262132">
+       <screen x="0" y="23" width="5120" height="1363" />
+     </state>
+-    <state x="2592" y="367" key="Vcs.Push.Dialog.v2/0.23.5120.1363@0.23.5120.1363" timestamp="1603331245596" />
++    <state x="2592" y="367" key="Vcs.Push.Dialog.v2/0.23.5120.1363@0.23.5120.1363" timestamp="1603332262132" />
+     <state x="2861" y="599" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603331265778">
+       <screen x="0" y="23" width="5120" height="1363" />
+     </state>
